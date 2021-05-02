@@ -9,10 +9,11 @@
 
 
 ## Used libraries 📚:
+```pyhton
 - requests
 - random
 - string
-
+```
 
 # <img src="https://github.com/fzrael/short/blob/main/img/screenshot.png" width="30" height="30"/> Screenshots
 <img src="https://github.com/fzrael/short/blob/main/img/img.png" />

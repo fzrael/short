@@ -15,9 +15,7 @@
 - string
 ```
 # <img src="https://github.com/fzrael/short/blob/main/img/screenshot.png" width="30" height="30"/> Screenshots
-```pyhton
 <img src="https://github.com/fzrael/short/blob/main/img/img.png" />
-```
 
 
 # <img src="https://github.com/fzrael/short/blob/main/img/source.png" width="40" height="40"/> SourcePic

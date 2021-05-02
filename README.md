@@ -4,7 +4,7 @@
 
 
 <div align='center'>
-  <img src='https://image.flaticon.com/icons/png/512/1078/1078454.png' width="200" height="200"/>
+  <img src='https://img.icons8.com/clouds/2x/link.png' width="200" height="200"/>
 </div>
 
 

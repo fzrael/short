@@ -6,7 +6,6 @@
   <img src='https://image.flaticon.com/icons/png/512/1078/1078454.png' width="200" height="200"/>
 </div>
 <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" /> 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/fzrael/)
 
 ## Used libraries 📚:
 - requests

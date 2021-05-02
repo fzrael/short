@@ -19,7 +19,7 @@
 
 
 
-# <img src="https://github.com/fzrael/short/blob/main/img/source.png" width="440" height="40"/> SourcePic
+# <img src="https://github.com/fzrael/short/blob/main/img/source.png" width="40" height="40"/> SourcePic
 <img src="https://github.com/fzrael/short/blob/main/img/src.png" />
 
 

@@ -15,12 +15,12 @@
 
 
 # <img src="https://github.com/fzrael/short/blob/main/img/screenshot.png" width="30" height="30"/> Screenshots
-<img src="https://github.com/fzrael/short/blob/main/img/img.png"/>
+<img src="https://github.com/fzrael/short/blob/main/img/img.png" width="100" height="100"/>
 
 
 
 # <img src="https://github.com/fzrael/short/blob/main/img/source.png" width="30" height="30"/> SourcePic
-<img src="https://github.com/fzrael/short/blob/main/img/src.png"/>
+<img src="https://github.com/fzrael/short/blob/main/img/src.png" width="100" height="100"/>
 
 
 

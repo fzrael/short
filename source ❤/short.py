@@ -33,7 +33,7 @@ url = input('shortUrl ==> : ')
 strfz = get_random_string(3)
 
 # إرسال الداتا witout API 
-x = requests.post(
+requests.post(
     'https://v.ht/processreq.php', 
 data = {'txt_url': url,'txt_name': strfz}
 )
